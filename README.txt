@@ -5,4 +5,4 @@ To install:
 
 Enjoy!
 
-- FastestClassic
+Made by FastestClassic.
