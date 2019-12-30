@@ -1,8 +1,5 @@
-Thank you for downloading!
+Thank you for downloading! To install, drag the .wotmod files from the folder with the vehicle & color option(s) of your choice to <Your WoT Directory\mods\<Game Version>
 
-To install:
-- Drag the .wotmod files from the folder with the vehicle & color option(s) of your choice to your World of Tanks install directory (by default, C:\Games\World_of_Tanks\mods\<version>) (example: C:\Games\World_Of_Tanks\mods\1.2.0.1).
-
-Enjoy!
+(Example: C:\Games\World_Of_Tanks\mods\1.7.0.2)
 
 Made by FastestClassic.
